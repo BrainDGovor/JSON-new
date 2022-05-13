@@ -1,0 +1,36 @@
+{
+  "People": [
+    {
+      "name": "Denis",
+      "Age": 25,
+      "City and Country": "Madrid,Spain",
+      "Profession": "Devops"
+    },
+    {
+      "name": "Lena",
+      "Age": "21 years old",
+      "City and Country": "Moscow,Russia",
+      "Profession": "UX designer"
+    },
+    {
+      "name": "Pol",
+      "Age": 32,
+      "City and Country": "Dallas,USA",
+      "Profession": "QA"
+    },
+    {
+      "name": "Stanislav",
+      "Age": 28,
+      "City and Country": "London,GB",
+      "Profession": "Project manager"
+    },
+    {
+      "name": "Mike",
+      "Age": 40,
+      "City and Country": "Berlin,Germany",
+      "Profession": "Boss))"
+    }
+  ],
+  "Company": "Yandex",
+  "Location": "Netherlands,Amsterdam"
+}

@@ -1,0 +1,23 @@
+{
+  "Animals": [
+    {
+      "type": "cat",
+      "name": "Jon",
+      "color": "black",
+      "weight": "10kg",
+      "breed": "Bengal"
+    },
+    {
+      "type": "dog",
+      "name": "Igor",
+      "color": "Blue",
+      "weight": 100
+    },
+    {
+      "type": "rat",
+      "name": "Raaaat",
+      "color": "Grey",
+      "weight": "1mg"
+    }
+  ]
+}
